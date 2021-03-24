@@ -1,6 +1,8 @@
 ## Space Shooter
 Simple game in which you have to have to shoot meteoroids with you space craft and avoid meteoroids by moving left and right on your screen. Game uses our **PoseCamera** sdk to detect human body from webcam and controll space craft movement.
 
+you can learn more about PoseCamera SDK on this link : https://github.com/Wonder-Tree/PoseCamera
+
 ### How to build
 install requirements by running following command
 ```
