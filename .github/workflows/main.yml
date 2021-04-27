@@ -1,5 +1,5 @@
 
-# This workflows will download pre-trained model and run inference on demo images using cpu
+# build python script
 name: build
 on:
   push:
@@ -25,7 +25,6 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install cython numpy
         pip install -r requirements.txt
-    - name: Install system dependencies
-      run: sudo apt install libgflags-dev libopencv-dev wget
+    - name: Build
+      run: python -m py_compile  main.py
