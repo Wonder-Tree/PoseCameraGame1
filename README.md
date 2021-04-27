@@ -1,6 +1,6 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/wonder-tree/SpaceShooter-PoseCamera/badge/main?s=2f1b8e81d87a77838e2747d77df1c942b1259636)](https://www.codefactor.io/repository/github/wonder-tree/SpaceShooter-PoseCamera/overview/main)
-
 ![Build](https://github.com/Wonder-Tree/SpaceShooter-PoseCamera/actions/workflows/main.yml/badge.svg)
+  [![CodeFactor](https://www.codefactor.io/repository/github/wonder-tree/SpaceShooter-PoseCamera/badge/main?s=2f1b8e81d87a77838e2747d77df1c942b1259636)](https://www.codefactor.io/repository/github/wonder-tree/SpaceShooter-PoseCamera/overview/main)
+
 
 
 ## Space Shooter
